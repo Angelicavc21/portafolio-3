@@ -1,0 +1,21 @@
+.circle {
+    vertical-align: middle;
+    border-style: none;
+    border-radius: 50%;
+}
+
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url(../img/header1.jpg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+b, strong {
+    font-weight: bolder;
+    color: rgb(25, 64, 236);
+}
